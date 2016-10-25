@@ -13,14 +13,35 @@
  *= require_tree .
  *= require_self
  */
+ * {
+   font-family: 'Indie Flower', cursive;
+ }
+
+
 .postcontent {
   padding-top: 51px;
 }
 
 .navbar {
   background-color: #58ece8;
+  font-family: 'Indie Flower', cursive;
+}
+.nav {
+  font-family: 'Indie Flower', cursive;
 }
 
 .newpost {
   text-align :right;
+}
+
+.title {
+  font-family: 'Indie Flower', cursive;
+}
+
+.date {
+  font-family: 'Indie Flower', cursive;
+}
+
+.body {
+  font-family: 'Indie Flower', cursive;
 }
