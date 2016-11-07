@@ -1,6 +1,8 @@
 
 <div class="newpost">
+  <% if signed_in? && current_user.admin? %>
 <h2><%= link_to 'New Post', new_post_path %><h2>
+  <% end %>
 </div>
 
 
