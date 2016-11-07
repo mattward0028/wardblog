@@ -17,9 +17,16 @@
    font-family: 'Indie Flower', cursive;
  }
 
+.main-title{
+  padding-top: 51px;
+}
 
 .postcontent {
   padding-top: 51px;
+}
+
+.notice-alert {
+  padding-top:51px;
 }
 
 .navbar {
