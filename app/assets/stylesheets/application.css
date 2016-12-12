@@ -17,6 +17,10 @@
    font-family: 'Indie Flower', cursive;
  }
 
+body {
+background-image: url("tileable_wood_texture.png");
+ }
+
 .main-title{
   padding-top: 51px;
 }
